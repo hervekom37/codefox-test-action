@@ -78,4 +78,4 @@ try {
   fs.unlinkSync('./test-event.json');
 } catch (e) {
   // Ignore cleanup errors
-}
+}"// Test change for CodeFox review"  
